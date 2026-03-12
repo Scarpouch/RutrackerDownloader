@@ -1,4 +1,4 @@
-**RutrackerDownloader** - Утилита для скачивания видео с YouTube, Rutube, Twitch и других платформ через yt-dlp.
+**RutrackerDownloader Wndows** - Утилита для скачивания видео с YouTube, Rutube, Twitch и других платформ через yt-dlp.
 
 Для скачивания всех файлов, нажмите зелёную кнопку «<> Code» на главной странице репозитория и выберите «Download ZIP»
 
