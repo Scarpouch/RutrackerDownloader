@@ -1,3 +1,4 @@
 @echo off
-start /min pythonw.exe "%~dp0inter_v1.1.pyw"
+start /min pythonw.exe "%~dp0RutrackerDownloader.pyw"
 exit
+
